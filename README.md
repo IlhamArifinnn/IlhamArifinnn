@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Ilham Arifin</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">An Informatics Student and Web Development Enthusiast from Indonesia</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -15,21 +15,21 @@
 
 ## 👨‍💻 About Me
 
-I’m a tech enthusiast with a strong passion for building user-centric and scalable web applications.  
-Currently focusing on Fullstack Development using React, Node.js, Laravel, and Next.js.  
-I love to learn new technologies, solve real-world problems, and collaborate on exciting projects.
+I’m an Informatics Engineering student who’s passionate about technology and web development.  
+I enjoy using software to solve problems and love building things that people can use.  
+Currently focusing on learning fullstack development — especially JavaScript, React, and Laravel.  
+Always excited to explore new tools, learn from others, and grow step by step as a developer.
 
 ---
 
 ## 🚀 Current Journey
 
-<!-- - 🔭 I’m currently working on a campus project: **Academic Information System** -->
-
-- 🌱 I’m currently learning **TypeScript** and **Next.js**
-- 👯 I’m looking to collaborate on **open-source projects** and **web-based applications**
-- 💬 Ask me about **JavaScript, React, Laravel, Node.js**
-- 📫 How to reach me: **ilhamarifinhrp22@gmail.com**
-- ⚡ Fun fact: I turn coffee ☕ into code!
+- 🏫 I’m a student at **STT Nurul Fikri**, majoring in **Informatics Engineering**
+- 🌱 Currently learning **Next.js** and **TypeScript** to strengthen my frontend skills
+- 👯 Looking to collaborate on **simple web-based applications** and gain more experience
+- 💬 Feel free to ask me about **JavaScript, React, Laravel, or anything beginner-friendly**
+- 🤝 Open to internship or part-time opportunities to improve my real-world development skills
+- ⚡ Fun fact: I enjoy learning by building real projects and exploring UI design on the side
 
 ---
 
