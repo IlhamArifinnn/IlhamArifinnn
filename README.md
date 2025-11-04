@@ -120,7 +120,7 @@ Always excited to explore new tools, learn from others, and grow step by step as
   <img src="https://github-readme-stats.vercel.app/api?username=IlhamArifinnn&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlhamArifinnn&" alt="GitHub Streak" />
 </p>
 
