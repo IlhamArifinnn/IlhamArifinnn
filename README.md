@@ -112,9 +112,9 @@ Always excited to explore new tools, learn from others, and grow step by step as
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlhamArifinnn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=IlhamArifinnn&show_icons=true&locale=en" alt="GitHub Stats" />
