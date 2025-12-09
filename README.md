@@ -39,7 +39,7 @@ Always excited to explore new tools, learn from others, and grow step by step as
   <a href="https://instagram.com/ipinnn_08" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:ilhamarifinhrp22@gmail.com" target="blank">
+  <a href="mailto:ilhamarifinhrp.work@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -115,15 +115,15 @@ Always excited to explore new tools, learn from others, and grow step by step as
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlhamArifinnn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=IlhamArifinnn&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlhamArifinnn&" alt="GitHub Streak" />
 </p>
 
