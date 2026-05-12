@@ -24,7 +24,7 @@ Always excited to explore new tools, learn from others, and grow step by step as
 
 ## 🚀 Current Journey
 
-- 🏫 I’m a student at **STT Nurul Fikri**, majoring in **Informatics Engineering**
+- � I’m a student at **STT Nurul Fikri**, majoring in **Informatics Engineering**
 - 🌱 Currently learning **Next.js** and **TypeScript** to strengthen my frontend skills
 - 👯 Looking to collaborate on **simple web-based applications** and gain more experience
 - 💬 Feel free to ask me about **JavaScript, React, Laravel, or anything beginner-friendly**
@@ -106,7 +106,7 @@ Always excited to explore new tools, learn from others, and grow step by step as
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
@@ -114,14 +114,6 @@ Always excited to explore new tools, learn from others, and grow step by step as
 ---
 
 ## 📊 GitHub Stats
-
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlhamArifinnn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p> -->
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlhamArifinnn&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlhamArifinnn&" alt="GitHub Streak" />
