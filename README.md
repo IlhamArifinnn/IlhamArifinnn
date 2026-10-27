@@ -36,8 +36,8 @@ Always excited to explore new tools, learn from others, and grow step by step as
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://instagram.com/ipinnn_08" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/ilhamarifinnn/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ilhamarifinhrp.work@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
